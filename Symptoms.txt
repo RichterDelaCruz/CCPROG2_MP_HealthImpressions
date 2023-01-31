@@ -1,0 +1,25 @@
+8
+1
+High Fever
+Is your body temperature more than 37.5 degrees? (Y/N)
+2
+Colds
+Do you have runny nose? (Y/N)
+3
+Cough
+Do you have cough with phlegm? (Y/N)
+4
+Rashes
+Do you have rashes all over your body? (Y/N)
+5
+Sore Throat
+Do you have sore throat? (Y/N)
+6
+Body Pain
+Do you feel pain in most parts of your body? (Y/N)
+7
+Nausea
+Do you feel dizzy most of the time? (Y/N)
+8
+Headache
+Do you have a headache? (Y/N)
